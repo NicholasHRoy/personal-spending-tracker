@@ -1,2 +1,2 @@
 # personal-finance-tracker
-Personal project for tracking personal spending.
+Project for tracking personal spending.
